@@ -58,3 +58,8 @@ O arquivo encontra-se [neste link](http://prtnsrc.com/2545.mp3). Abra por sua co
 ## Por quê!?
 
 Porque somos brasileiros!
+
+## Disclaimer
+
+Os autores deste projeto não possuem qualquer ligação com a TotalVoice.
+TotalVoice é uma marca registrada.
