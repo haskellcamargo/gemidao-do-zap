@@ -1,0 +1,21 @@
+{
+  "name": "gemidao-do-zap",
+  "version": "0.1.0",
+  "description": "Uma aplicação de linha de comando que liga para alguém tocando o gemidão do Zap",
+  "bin": {
+    "gemidao-do-zap": "./dist/cli.js"
+  },
+  "main": "dist/index.js",
+  "repository": "https://github.com/haskellcamargo/gemidao-do-zap.git",
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel ./src -d ./dist",
+    "lint": "xo src/**"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-es2015": "^6.24.1",
+    "xo": "0.18.2"
+  }
+}
