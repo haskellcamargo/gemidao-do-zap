@@ -34,7 +34,7 @@ Você terá disponível globalmente o comando `gemidao-do-zap`.
 | `--token` | :white_check_mark: | Seu token de acesso do TotalVoice                         |
 | `--de`    |                    | Quem está enviando o gemidão? Qualquer número telefônico! |
 | `--para`  | :white_check_mark: | Quem é a vítima do gemidão do zap?                        |
-| `--mode`  |                    | `sms` ou `call`. Se for SMS, o gemidão vai por escrito    |
+| `--sms`   |                    | Se definido, será enviado um SMS ao invés de uma chamada  |
 
 ### Exemplo
 
