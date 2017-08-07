@@ -15,7 +15,8 @@ cli(yargs
         type: 'string'
     })
     .option('para', {
-        describe: 'Qual o número da vítima?'
+        describe: 'Qual o número da vítima?',
+        type: 'string'
     })
     .option('sms', {
         describe: 'Se definido, será enviado um SMS ao invés de uma chamada',
