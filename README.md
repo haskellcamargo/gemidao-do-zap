@@ -40,7 +40,10 @@ Você terá disponível globalmente o comando `gemidao-do-zap`.
 
 `gemidao-do-zap --de=47998569631 --para=47996326548 --key=ade6a19ecee14577634f66af105eb68c`
 
-Observação: somente chamadas brasileiras. Omita o `+55`.
+Observações:
+
+- Somente chamadas brasileiras. Omita o `+55`
+- A função de SMS é _alpha_. Por enquanto, funciona somente para o número cadastrado
 
 A vítima receberá uma ligação e, quando atender, ouvirá o delicioso gemido do zap!
 

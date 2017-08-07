@@ -11,14 +11,7 @@ const gemidaoInText = 'OOOWH AHHHWN WOOOO AAAAHN WAAAAA AAAAAAHN ANN WAAA!\n'
 const sms = (to, token) => request.post(route('/sms'))
     .set('Access-Token', token)
     .set('Accept', 'application/json')
-    .send({ numero_destino: to, mensagem: gemidaoInText })
-    .catch(err => {
-        if (err.status === 405) {
-            return reject(new Error(err.body.mensagem));
-        }
-
-        return reject(err);
-    });
+    .send({ numero_destino: to, mensagem: gemidaoInText });
 
 export default function gemidao(args) {
     if (!/^[a-f0-9]{32}$/.test(args.token)) {
@@ -35,8 +28,8 @@ export default function gemidao(args) {
 
     return action
         .catch(err => {
-            if (err.status === 405) {
-                return reject(new Error(err.body.mensagem));
+            if (err.status === 405 || err.status === 403) {
+                return reject(new Error((err.body || err.response.body).mensagem));
             }
 
             return reject(err);
