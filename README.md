@@ -12,8 +12,8 @@ Por exemplo, eu posso enviar o gemidão do zap para meu amigo simulando uma
 ligação da mãe dele e, quando ele atender, _AAAWN OOOWN NHAAA AWWWWN AAAAAH_
 (inclusive, você acabou de cair no gemidão do zap escrito).
 
-<div style="float: left">
-  <img alt="SMS" src="https://raw.githubusercontent.com/haskellcamargo/gemidao-do-zap/master/resources/sms.png" />
+<div align="center" style="float: left">
+  <img alt="SMS" width="250" src="https://raw.githubusercontent.com/haskellcamargo/gemidao-do-zap/master/resources/sms.png" /><img alt="SMS" width="250" src="https://raw.githubusercontent.com/haskellcamargo/gemidao-do-zap/master/resources/call.png" />
 </div>
 
 ## Como funciona?
