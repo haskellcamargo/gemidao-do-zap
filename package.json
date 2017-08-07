@@ -14,7 +14,11 @@
     "lint": "xo src/**"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "^1.1.2",
     "ramda": "0.24.1",
+    "superagent": "^3.5.2",
+    "superagent-promise": "^1.1.0",
     "yargs": "8.0.2"
   },
   "devDependencies": {
@@ -27,6 +31,9 @@
     "esnext": true,
     "space": 4,
     "rules": {
+      "camelcase": [
+        "off"
+      ],
       "no-restricted-syntax": [
         "error",
         "ForStatement",

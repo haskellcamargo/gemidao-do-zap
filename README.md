@@ -38,7 +38,9 @@ Você terá disponível globalmente o comando `gemidao-do-zap`.
 
 ### Exemplo
 
-`gemidao-do-zap --de=+5547998569631 --para=+5547996326548 --key=a15d23ae`
+`gemidao-do-zap --de=47998569631 --para=47996326548 --key=ade6a19ecee14577634f66af105eb68c`
+
+Observação: somente chamadas brasileiras. Omita o `+55`.
 
 A vítima receberá uma ligação e, quando atender, ouvirá o delicioso gemido do zap!
 

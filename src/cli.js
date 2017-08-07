@@ -1,7 +1,17 @@
 import yargs from 'yargs';
+import { green, red } from 'colors/safe';
+import { pipe, prop } from 'ramda';
+import gemidao from './gemidao';
+
+const emitSuccess = message => console.log(green(` ✔ Sucesso: ${message}`));
+const emitError = message => console.log(red(` ✗ Erro: ${message}`));
 
 function cli(args) {
-    console.log(args);
+    gemidao(args)
+        .then(() => {
+            emitSuccess(args.sms ? 'sms enviado!' : 'chamada efetuada!');
+        })
+        .catch(pipe(prop('message'), emitError));
 }
 
 cli(yargs
