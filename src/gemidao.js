@@ -13,6 +13,22 @@ const sms = (to, token) => request.post(route('/sms'))
     .set('Accept', 'application/json')
     .send({ numero_destino: to, mensagem: gemidaoInText });
 
+const call = (from, to, token) => request.post(route('/composto'))
+    .set('Access-Token', token)
+    .set('Accept', 'application/json')
+    .send({
+        numero_destino: to,
+        dados: [
+            {
+                acao: 'audio',
+                acao_dados: {
+                    url_audio: 'https://github.com/haskellcamargo/gemidao-do-zap/raw/master/resources/gemidao.mp3'
+                }
+            }
+        ],
+        bina: from
+    });
+
 export default function gemidao(args) {
     if (!/^[a-f0-9]{32}$/.test(args.token)) {
         return reject(new Error('Token inválido. Obtenha um em https://totalvoice.com.br'));
@@ -24,7 +40,7 @@ export default function gemidao(args) {
 
     const action = args.sms
         ? sms(args.para, args.token)
-        : x => reject(new Error('...'));
+        : call(args.de, args.para, args.token);
 
     return action
         .catch(err => {
