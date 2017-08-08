@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import yargs from 'yargs';
 import { green, red } from 'colors/safe';
 import { pipe, prop } from 'ramda';

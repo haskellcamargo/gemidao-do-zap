@@ -1,6 +1,6 @@
 {
   "name": "gemidao-do-zap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Uma aplicação de linha de comando que liga para alguém tocando o gemidão do Zap",
   "bin": {
     "gemidao-do-zap": "./dist/cli.js"
