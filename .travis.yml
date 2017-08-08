@@ -5,7 +5,7 @@ node_js:
 
 install:
   - yarn
-  - yarn compile
+  - yarn build
 
 script:
   - yarn lint
