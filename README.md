@@ -61,6 +61,7 @@ O arquivo encontra-se [neste link](http://prtnsrc.com/2545.mp3). Abra por sua co
 
 Porque somos brasileiros!
 
+![6096234_700b](https://user-images.githubusercontent.com/1585655/29083653-d40bb660-7c3f-11e7-896c-efd243f32918.jpg)
 ## Disclaimer
 
 Os autores deste projeto não possuem qualquer ligação com a TotalVoice.
