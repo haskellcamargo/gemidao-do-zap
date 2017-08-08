@@ -1,6 +1,6 @@
 {
   "name": "gemidao-do-zap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Uma aplicação de linha de comando que liga para alguém tocando o gemidão do Zap",
   "bin": {
     "gemidao-do-zap": "./dist/cli.js"
@@ -11,7 +11,8 @@
   "license": "MIT",
   "scripts": {
     "build": "babel ./src -d ./dist",
-    "lint": "xo src/**"
+    "lint": "xo src/**",
+    "prepublish": "npm run build"
   },
   "dependencies": {
     "bluebird": "^3.5.0",
