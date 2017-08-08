@@ -44,7 +44,7 @@ Você terá disponível globalmente o comando `gemidao-do-zap`.
 
 ### Exemplo
 
-`gemidao-do-zap --de=47998569631 --para=47996326548 --key=ade6a19ecee14577634f66af105eb68c`
+`gemidao-do-zap --de=47998569631 --para=47996326548 --token=ade6a19ecee14577634f66af105eb68c`
 
 Observações:
 
