@@ -27,6 +27,10 @@ fins de testes, R$ 3,00 para utilizar. Cada envio do gemidão debita R$ 0,35.
 Você receberá um token de acesso, que poderá passar para a nossa API para
 fazer as chamadas. Fique tranquilo, todo o código é aberto e não a salvaremos.
 
+## Do que eu preciso?
+
+Do `node` acima da **versão 6**.
+
 ## Instalação
 
 `sudo npm install -g gemidao-do-zap`
