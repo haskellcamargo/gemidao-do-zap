@@ -22,6 +22,8 @@ Utilizamos a API de chamadas da *TotalVoice*. Você precisa criar uma conta
 para poder utilizar. Quando você cria uma conta, você obtém, gratuitamente, para
 fins de testes, R$ 3,00 para utilizar. Cada envio do gemidão debita R$ 0,30.
 
+[Clique aqui para criar sua conta](https://api2.totalvoice.com.br/painel/signup.php)
+
 Você receberá um token de acesso, que poderá passar para a nossa API para
 fazer as chamadas. Fique tranquilo, todo o código é aberto e não a salvaremos.
 
