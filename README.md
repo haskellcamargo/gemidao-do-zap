@@ -16,6 +16,7 @@ ligação da mãe dele e, quando ele atender, _AAAWN OOOWN NHAAA AWWWWN AAAAAH_
   <img alt="SMS" width="250" src="https://raw.githubusercontent.com/haskellcamargo/gemidao-do-zap/master/resources/sms.png" /><img alt="SMS" width="250" src="https://raw.githubusercontent.com/haskellcamargo/gemidao-do-zap/master/resources/call.png" />
 </div>
 
+
 ## Como funciona?
 
 Utilizamos a API de chamadas da *TotalVoice*. Você precisa criar uma conta
