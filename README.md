@@ -1,3 +1,15 @@
+# Atenção - Leia-me
+O TotalVoice está dificultando um pouco para essa maravilhosa ferramenta. Alguns relatam que não estão recebendo os créditos, outros relatam que 
+estão pedindo várias validações, algumas de e-mail, outras via telefone fixo!
+
+Também é conhecido que na versão trial agora está sendo barrado enviar o gemidão para telefones abertos, sendo restrito, aparentemente, que seja
+enviado apenas para o telefone celular cadastrado. Não sabemos ainda se é possível fazer fake ainda no "de" de quem está ligando.
+
+Pedimos que leiam este tópico [[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39)
+
+Att,
+gemidao-do-zap
+
 # Gemidão do Zap
 
 > O brasileiro precisa ser estudado
