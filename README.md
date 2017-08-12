@@ -93,8 +93,12 @@ O arquivo encontra-se [neste link](http://prtnsrc.com/2545.mp3). Abra por sua co
 
 Para quem quer rodar via Docker
 
-`$ docker build -t gemidao-do-zap -f Dockerfile .`
-`$ docker run --name gemidao-do-zap -e DE={{telefone}} -e PARA={{telefone}} -e TOKEN={{token}} gemidao-do-zap`
+```
+$ docker build -t gemidao-do-zap -f Dockerfile .
+```
+```
+$ docker run --name --rm gemidao-do-zap -e DE={{telefone}} -e PARA={{telefone}} -e TOKEN={{token}} gemidao-do-zap
+```
 
 
 ## Por quê!?
