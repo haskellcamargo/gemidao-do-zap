@@ -1,11 +1,26 @@
 # Atenção - Leia-me
-O TotalVoice está dificultando um pouco para essa maravilhosa ferramenta. Alguns relatam que não estão recebendo os créditos, outros relatam que 
+O TotalVoice implementou algumas validações na API deles. Alguns relatam que não estão recebendo os créditos, outros relatam que 
 estão pedindo várias validações, algumas de e-mail, outras via telefone fixo!
 
-Também é conhecido que na versão trial agora está sendo barrado enviar o gemidão para telefones abertos, sendo restrito, aparentemente, que seja
-enviado apenas para o telefone celular cadastrado. Não sabemos ainda se é possível fazer fake ainda no "de" de quem está ligando.
+Como foram milhares de contas criadas em pouco tempo e também foi relatado que a API do totalvoice acabou sendo utilizada para o mal (e sim, não consideramos o gemidão como algo do mal) foram adicionadas várias restrições a fim de coibir este ato.
 
-Pedimos que leiam este tópico [[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39)
+*Mas não se desespere*, isso foi adicionado apenas para as contas *_trial_*.
+
+A conta trial agora está barradand o envio do gemidão para telefones abertos, sendo restrito, enquanto triel, apenas para o telefone celular cadastrado.
+
+As contas que *_NÃO_* forem trial não foram afetadas. Pelo menos até agora.
+
+Para tirar sua conta de status trial é necessário completar todos os passos de validações imposto pela totalvoice, sendo necessário *confirmação de telefone, e-mail* além do envio
+de cópia digitalizada de *CPF* e *RG*.
+
+Na conta liberada o gemidão ainda está funcionando 100%.
+
+*Sobre os créditos*, muitos chamados foram abertos e muitas contas criadas no totalvoice, portanto eles optaram por *_NÃO DISPONIBILIZAR OS CRÉDITO_*, pelo menos temporariamente.
+
+Pedimos que leiam estes tópicos
+
+[[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39) e  
+[[Importante] Explicação sobre o totalvoice não estar mais dando créditos nem discando para outros números](https://github.com/haskellcamargo/gemidao-do-zap/issues/58)
 
 Att,
 gemidao-do-zap
