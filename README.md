@@ -6,7 +6,8 @@
 
 O _Gemidão do Zap_ é uma aplicação escrita sobre o NodeJS que permite que você
 envie o gemidão do zap para seus amigos via chamada telefônica e simulando o
-número telefônico de pessoas conhecidas.
+número telefônico de pessoas conhecidas. É a mais conhecida aplicação GaaS 
+(Gemidão as a Service) do mercado.
 
 Por exemplo, eu posso enviar o gemidão do zap para meu amigo simulando uma
 ligação da mãe dele e, quando ele atender, _AAAWN OOOWN NHAAA AWWWWN AAAAAH_
