@@ -2,25 +2,25 @@
 O TotalVoice implementou algumas validações na API deles. Alguns relatam que não estão recebendo os créditos, outros relatam que 
 estão pedindo várias validações, algumas de e-mail, outras via telefone fixo!
 
-Como foram milhares de contas criadas em pouco tempo e também foi relatado que a API do totalvoice acabou sendo utilizada para o mal (e sim, não consideramos o gemidão como algo do mal) foram adicionadas várias restrições a fim de coibir este ato.
+Como foram milhares de contas criadas em pouco tempo e também foi relatado que a API do TotalVoice acabou sendo utilizada para o mal (e sim, não consideramos o gemidão como algo do mal) foram adicionadas várias restrições a fim de coibir este ato.
 
 *Mas não se desespere*, isso foi adicionado apenas para as contas *_trial_*.
 
-A conta trial agora está barradand o envio do gemidão para telefones abertos, sendo restrito, enquanto triel, apenas para o telefone celular cadastrado.
+A conta trial agora está barradando o envio do gemidão para telefones abertos, sendo restrito, enquanto trial, apenas para o telefone celular cadastrado.
 
 As contas que *_NÃO_* forem trial não foram afetadas. Pelo menos até agora.
 
-Para tirar sua conta de status trial é necessário completar todos os passos de validações imposto pela totalvoice, sendo necessário *confirmação de telefone, e-mail* além do envio
+Para tirar sua conta de status trial é necessário completar todos os passos de validações imposto pela TotalVoice, sendo necessário *confirmação de telefone, e-mail* além do envio
 de cópia digitalizada de *CPF* e *RG*.
 
-Na conta liberada o gemidão ainda está funcionando 100%.
+Na conta liberada, o gemidão ainda está funcionando 100%.
 
-*Sobre os créditos*, muitos chamados foram abertos e muitas contas criadas no totalvoice, portanto eles optaram por *_NÃO DISPONIBILIZAR OS CRÉDITO_*, pelo menos temporariamente.
+*Sobre os créditos*, muitos chamados foram abertos e muitas contas criadas no TotalVoice, portanto eles optaram por *_NÃO DISPONIBILIZAREM OS CRÉDITOS_*, pelo menos temporariamente.
 
-Pedimos que leiam estes tópicos
+Pedimos que leiam esses tópicos
 
 [[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39) e  
-[[Importante] Explicação sobre o totalvoice não estar mais dando créditos nem discando para outros números](https://github.com/haskellcamargo/gemidao-do-zap/issues/58)
+[[Importante] Explicação sobre o TotalVoice não estar mais dando créditos nem discando para outros números](https://github.com/haskellcamargo/gemidao-do-zap/issues/58)
 
 Att,
 gemidao-do-zap
