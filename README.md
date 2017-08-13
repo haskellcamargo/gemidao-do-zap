@@ -17,10 +17,11 @@ Na conta liberada, o gemidão ainda está funcionando 100%.
 
 *Sobre os créditos*, muitos chamados foram abertos e muitas contas criadas no TotalVoice, portanto eles optaram por *_NÃO DISPONIBILIZAREM OS CRÉDITOS_*, pelo menos temporariamente.
 
-Pedimos que leiam esses tópicos
+Pedimos que leiam esses tópicos e esse post no Facebook da própria TotalVoice explicando sobre o ocorrido.
 
-[[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39) e  
-[[Importante] Explicação sobre o TotalVoice não estar mais dando créditos nem discando para outros números](https://github.com/haskellcamargo/gemidao-do-zap/issues/58)
+[[IMPORTANTE] Até mais](https://github.com/haskellcamargo/gemidao-do-zap/issues/39),  
+[[Importante] Explicação sobre o TotalVoice não estar mais dando créditos nem discando para outros números](https://github.com/haskellcamargo/gemidao-do-zap/issues/58) e  
+[Explicação da TotalVoice sobre o ocorrido](https://www.facebook.com/totalvoiceapi/posts/1051818731587820)
 
 Att,
 gemidao-do-zap
