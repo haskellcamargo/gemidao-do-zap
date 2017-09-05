@@ -2,6 +2,8 @@
 
 > O brasileiro precisa ser estudado
 
+<a href="https://app.codesponsor.io/link/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/gemidao-do-zap" rel="nofollow"><img src="https://app.codesponsor.io/embed/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/gemidao-do-zap.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 ## O que é isso?
 
 O _Gemidão do Zap_ é uma aplicação escrita sobre o NodeJS que permite que você
